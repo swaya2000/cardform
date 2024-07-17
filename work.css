@@ -1,0 +1,42 @@
+
+.navbar {
+    padding: auto;
+    width: 85%;
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;  
+    background-color: rgb(36, 34, 34);
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+    width: 98%;
+    height: 50px;
+   
+    
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 0px 42px;
+    text-align: center;
+    line-height: 42px;
+    height: 42px;
+   
+    
+}
+
+.navbar li{
+    float: left;
+    border-right: 1px solid rgb(78, 77, 77);  
+}
+
+.navbar li:last-child{
+    border-right: none;
+}
+
+
+
+
+
